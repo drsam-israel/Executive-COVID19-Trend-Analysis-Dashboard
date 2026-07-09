@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+prophet
+scikit-learn
+scipy
+joblib
+openpyxl
+pyarrow
+Pillow
+cmdstanpy

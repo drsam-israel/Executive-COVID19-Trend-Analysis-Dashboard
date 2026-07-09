@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+.DS_Store
+
+models/*.pkl
+reports/*.pdf
+outputs/*.csv
