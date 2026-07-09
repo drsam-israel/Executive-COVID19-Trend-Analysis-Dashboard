@@ -30,8 +30,11 @@ Built using **Python**, **Streamlit**, **Plotly**, and **Facebook Prophet**, the
 Unlike traditional dashboards that simply visualize historical data, this solution integrates **machine learning forecasting**, **model governance**, and **executive narrative generation** to support operational planning and data-driven healthcare leadership.
 
 ---
+## Live Demo
 
-# Executive Dashboard
+Executive COVID-19 Trend Analysis & Forecasting Dashboard  
+https://executive-covid19-trend-analysis-dashboard-vtvnfypnnkk5yveaum3.streamlit.app/
+
 
 ![Executive Dashboard](screenshots/executive_dashboard.png)
 
