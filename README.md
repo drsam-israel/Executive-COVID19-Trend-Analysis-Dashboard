@@ -36,6 +36,27 @@ Executive COVID-19 Trend Analysis & Forecasting Dashboard
 https://executive-covid19-trend-analysis-dashboard-vtvnfypnnkk5yveaum3.streamlit.app/
 
 
+# 📄 Executive Case Study
+
+This project is accompanied by a consulting-grade Executive Case Study that explains the business problem, enterprise solution architecture, artificial intelligence methodology, model evaluation, business impact, and future roadmap.
+
+Unlike a traditional technical report, the case study is written for healthcare executives, hiring managers, digital transformation leaders, and AI stakeholders, demonstrating how the solution combines descriptive analytics, predictive forecasting, and executive decision support within a unified enterprise platform.
+
+### Highlights
+
+- Enterprise AI-powered public health intelligence platform
+- 8 integrated analytics modules
+- AI forecasting using Facebook Prophet
+- Responsible AI model evaluation (MAE, RMSE, MAPE)
+- Executive decision-support framework
+- Production-ready cloud deployment
+- Modular enterprise architecture
+- Healthcare analytics use case
+
+## 📥 Download the Executive Case Study
+
+[**Executive COVID-19 Trend Analysis & Forecasting Dashboard – Executive Case Study (PDF)**](assets/Executive_COVID19_Trend_Analysis_Forecasting_Dashboard_Case_Study.pdf)
+
 ![Executive Dashboard](screenshots/executive_dashboard.png)
 
 ### Executive KPIs
